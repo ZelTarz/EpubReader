@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "409286749493",
+    "firebase_url": "https://ebookreader-9c8c3.firebaseio.com",
+    "project_id": "ebookreader-9c8c3",
+    "storage_bucket": "ebookreader-9c8c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409286749493:android:4ba92cfa1945b83c",
+        "android_client_info": {
+          "package_name": "com.ebookreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409286749493-vshphris95de5aqed35h760qsto44ac2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0m1chNE6JL9PkLT5Qts9F47tFsIY7cb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
